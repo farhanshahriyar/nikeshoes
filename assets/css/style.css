@@ -20,7 +20,7 @@ h1, h2{
 }
 
 .text-primary{
-    color: #A4BC46 !important;
+    color: #fc8955 !important;
 }
 
 .text-gold{
@@ -95,9 +95,9 @@ h1, h2{
 .price{
     font-size: 30px;
     font-weight: 500;
+    font-family: 'Oswald', sans-serif;
     color: #363958;
 }
-
 
 .subscribe{
     border-top: 1px solid #eee;
@@ -114,19 +114,9 @@ h1, h2{
     transition-delay: 0s;
     transition-duration: .3s;
 }
-.form-control:focus{
-    box-shadow: none;
-    border: 1px solid #7a9319;
-}
-
 
 .footer{
     border-bottom: 1px solid #343638;
-}
-
-
-.footer-widget .h4{
-    color: #ddd;
 }
 
 .footer-widget ul a{
@@ -135,43 +125,7 @@ h1, h2{
     margin-bottom: .5rem;
 }
 
-.footer-widget ul a:hover{
-    color: #A4BC46;
-}
-
 .footer, .copyright{
     background-color: #262729;
     color: #999999;
-}
-
-.payment{
-    font-size: 25px;
-}
-
-.social-link{
-    margin-top: 20px;
-    padding: 0;
-    list-style: none;
-}
-.social-link li{
-    display: inline-block;
-}
-
-.social-link li a{
-    width: 40px;
-    height: 40px;
-    display: block;
-    background: #343638;
-    margin-right: 10px;
-    font-size: 18px;
-    color: #999;
-    line-height: 40px;
-    border-radius: 4px;
-    transition: ease all .3s;
-    text-align: center;
-}
-
-.social-link li a:hover{
-    background: #A4BC46;
-    color: #fff;
 }
