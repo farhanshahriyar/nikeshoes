@@ -1,2 +1,3 @@
 # nikeshoes
-# made by abir
+# simple e-com website
+# farhanshahriyar
